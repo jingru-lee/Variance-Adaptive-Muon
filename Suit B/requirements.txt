@@ -1,0 +1,12 @@
+transformers
+tokenizers
+datasets
+peft
+wandb
+loguru
+nvitop
+matplotlib
+bitsandbytes
+scipy
+scikit-learn
+evaluate
